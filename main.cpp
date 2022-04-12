@@ -1,6 +1,8 @@
 //#include <stdio.h>
 //#include "Stack.h"
 //
+// ¼öÁ¤ 1
+//
 //
 //void prnMenu() {
 //	cout << "*******************************************" << endl;
