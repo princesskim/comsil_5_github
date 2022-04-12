@@ -1,6 +1,6 @@
 #ifndef __LINKEDLIST__
 #define __LINKEDLIST__
-
+//¼öÁ¤
 #include <iostream>
 using namespace std;
 
